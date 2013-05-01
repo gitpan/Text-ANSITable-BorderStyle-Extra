@@ -7,6 +7,7 @@ META.json
 META.yml
 README
 dist.ini
+lib/Text/ANSITable/BorderStyle/Demo.pm
 lib/Text/ANSITable/BorderStyle/Extra.pm
 t/00-compile.t
 t/release-pod-coverage.t

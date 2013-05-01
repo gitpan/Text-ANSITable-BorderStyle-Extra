@@ -17,12 +17,13 @@ my %module_build_args = (
     "Steven Haryanto <stevenharyanto\@gmail.com>"
   ],
   "dist_name" => "Text-ANSITable-BorderStyle-Extra",
-  "dist_version" => "0.01",
+  "dist_version" => "0.02",
   "license" => "perl",
   "module_name" => "Text::ANSITable::BorderStyle::Extra",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
+    "Text::ANSITable" => "0.01",
     "perl" => "5.010001"
   },
   "script_files" => []

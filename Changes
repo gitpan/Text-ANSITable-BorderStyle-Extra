@@ -1,5 +1,15 @@
 Revision history for Text-ANSITable-BorderStyle-Extra
 
-0.01    2013-04-20 (SHARYANTO) (not yet released)
+0.02    2013-05-01 (SHARYANTO)
+
+        - Add module: Demo.
+
+        - Add border styles: demo_custom_char, hboldh_dsingle, dash2, dash3.
+
+        - Tweak border hdoubleh_dsingle: only line between header and first data
+          row is doubled.
+
+
+0.01    2013-04-28 (SHARYANTO)
 
         First release.

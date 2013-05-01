@@ -2,7 +2,7 @@ NAME
     Text::ANSITable::BorderStyle::Extra - More border styles
 
 VERSION
-    version 0.01
+    version 0.02
 
 AUTHOR
     Steven Haryanto <stevenharyanto@gmail.com>
@@ -13,7 +13,16 @@ COPYRIGHT AND LICENSE
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.
 
+DESCRIPTION
 FUNCTIONS
+    None are exported by default, but they are exportable.
+
 INCLUDED BORDER STYLES
+    *   dash2 (Dash 2)
+
+    *   dash3 (Dash 3)
+
+    *   hboldh_dsingle (Horizontally-bold for header, single for data)
+
     *   hdoubleh_dsingle (Horizontally-double for header, single for data)
 
